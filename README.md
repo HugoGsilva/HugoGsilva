@@ -38,39 +38,60 @@ Gosto de montar projetos completos, integrando front-end, back-end, banco de dad
   <tr>
     <td><strong>Linguagens</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=ts,js,py,java,ruby&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=ruby&theme=dark" title="Ruby" alt="Ruby" />
     </td>
   </tr>
   <tr>
     <td><strong>Front-end</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,angular,tailwind,html,css&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" />
+      <img src="https://skillicons.dev/icons?i=angular&theme=dark" title="Angular" alt="Angular" />
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind" />
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS" />
     </td>
   </tr>
   <tr>
     <td><strong>Back-end</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,rails&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express.js" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI" />
+      <img src="https://skillicons.dev/icons?i=rails&theme=dark" title="Ruby on Rails" alt="Rails" />
     </td>
   </tr>
   <tr>
     <td><strong>Banco de dados</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" title="SQLite" alt="SQLite" />
+      <img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" alt="Redis" />
     </td>
   </tr>
   <tr>
     <td><strong>Infraestrutura</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,nginx&theme=dark" />
-      <br>
-      <sub>Docker Compose, Portainer, VPS/cloud</sub>
+      <!-- Docker -->
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker & Docker Compose" alt="Docker" />
+      <!-- Nginx -->
+      <img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" alt="Nginx" />
+      <!-- VPS / Cloud (Ícones 3D Coloridos) -->
+      <img src="https://img.icons8.com/fluency/48/server.png" title="VPS" alt="VPS" style="margin: 0 4px; vertical-align: middle;" />
+      <img src="https://img.icons8.com/fluency/48/cloud.png" title="Cloud" alt="Cloud" style="margin: 0 4px; vertical-align: middle;" />
     </td>
   </tr>
   <tr>
     <td><strong>Ferramentas</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" alt="VS Code" />
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" />
     </td>
   </tr>
 </table>
