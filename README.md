@@ -76,11 +76,8 @@ Gosto de montar projetos completos, integrando front-end, back-end, banco de dad
   <tr>
     <td><strong>Infraestrutura</strong></td>
     <td>
-      <!-- Docker -->
       <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker & Docker Compose" alt="Docker" />
-      <!-- Nginx -->
       <img src="https://skillicons.dev/icons?i=nginx&theme=dark" title="Nginx" alt="Nginx" />
-      <!-- VPS / Cloud (Ícones 3D Coloridos) -->
       <img src="https://img.icons8.com/fluency/48/server.png" title="VPS" alt="VPS" style="margin: 0 4px; vertical-align: middle;" />
       <img src="https://img.icons8.com/fluency/48/cloud.png" title="Cloud" alt="Cloud" style="margin: 0 4px; vertical-align: middle;" />
     </td>
@@ -101,12 +98,12 @@ Gosto de montar projetos completos, integrando front-end, back-end, banco de dad
 <p align="center">
   <img 
     width="390"
-    src="https://github-readme-stats.vercel.app/api?username=HugoGsilva&show_icons=false&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=16A34A&text_color=C9D1D9&custom_title=Resumo%20GitHub" 
+    src="https://github-stats-extended.vercel.app/api?username=HugoGsilva&show_icons=false&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=16A34A&text_color=C9D1D9&custom_title=Resumo%20GitHub" 
     alt="GitHub stats" 
   />
   <img 
     width="390"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoGsilva&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=16A34A&text_color=C9D1D9&hide_progress=true&custom_title=Linguagens%20mais%20usadas" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=HugoGsilva&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=16A34A&text_color=C9D1D9&hide_progress=true&custom_title=Linguagens%20mais%20usadas" 
     alt="Top languages" 
   />
 </p>
@@ -117,21 +114,21 @@ Gosto de montar projetos completos, integrando front-end, back-end, banco de dad
   <a href="https://github.com/HugoGsilva/Finder">
     <img 
       width="330" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=HugoGsilva&repo=Finder&bg_color=0D1117&title_color=16A34A&text_color=C9D1D9&icon_color=16A34A&hide_border=true&show_icons=false" 
+      src="https://github-stats-extended.vercel.app/api/pin/?username=HugoGsilva&repo=Finder&bg_color=0D1117&title_color=16A34A&text_color=C9D1D9&icon_color=16A34A&hide_border=true&show_icons=false" 
       alt="Finder" 
     />
   </a>
   <a href="https://github.com/HugoGsilva/Api-planilhas">
     <img 
       width="330" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=HugoGsilva&repo=Api-planilhas&bg_color=0D1117&title_color=16A34A&text_color=C9D1D9&icon_color=16A34A&hide_border=true&show_icons=false" 
+      src="https://github-stats-extended.vercel.app/api/pin/?username=HugoGsilva&repo=Api-planilhas&bg_color=0D1117&title_color=16A34A&text_color=C9D1D9&icon_color=16A34A&hide_border=true&show_icons=false" 
       alt="Api-planilhas" 
     />
   </a>
   <a href="https://github.com/HugoGsilva/Chatbot-Prolog">
     <img 
       width="330" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=HugoGsilva&repo=Chatbot-Prolog&bg_color=0D1117&title_color=16A34A&text_color=C9D1D9&icon_color=16A34A&hide_border=true&show_icons=false" 
+      src="https://github-stats-extended.vercel.app/api/pin/?username=HugoGsilva&repo=Chatbot-Prolog&bg_color=0D1117&title_color=16A34A&text_color=C9D1D9&icon_color=16A34A&hide_border=true&show_icons=false" 
       alt="Chatbot-Prolog" 
     />
   </a>
